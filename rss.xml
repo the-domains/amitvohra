@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Amit Vohra]]></title>
         <description><![CDATA[Amit Vohra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amitvohra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 12:34:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 12:44:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amitvohra/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cffd65fc-2590-4342-85ca-3002ce471238.jpg">]]></description>
+            <link>https://thegrid.ai/amitvohra/off-the-coast-of-gibralter/index.html</link>
+            <guid isPermaLink="false">0258110f-6e02-4675-b71d-ef13b131b281</guid>
+            <pubDate>Sun, 03 Apr 2016 12:43:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2009edb-f116-4453-bf0f-2696909a7871.jpg">]]></description>
-            <link>undefinedc0b1ec94-b623-470d-90fb-f231ebef07ca/index.html</link>
+            <link>https://thegrid.ai/amitvohra/c0b1ec94-b623-470d-90fb-f231ebef07ca/index.html</link>
             <guid isPermaLink="false">c0b1ec94-b623-470d-90fb-f231ebef07ca</guid>
             <pubDate>Sun, 03 Apr 2016 12:33:46 GMT</pubDate>
         </item>
