@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Amitvohra
+favicon: null
+layout_spectrum: 0.50368
+typography_spectrum: 0.6577061
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4605735
-  lightness: 0.3476703
-  brandStrength: 0.6362007
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.6362007
+  lightness: 0.3476703
+  saturation: 0.4605735
   rhythmicContrast: 0.6075269
-typography_spectrum: 0.6577061
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.3422939
-favicon: null
-name: Amitvohra
+purpose: []
